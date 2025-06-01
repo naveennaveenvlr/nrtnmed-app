@@ -26,5 +26,6 @@ Designed for:
 5. Done! 🎉
 
 ## 🛡️ Disclaimer
+-All Copyrights and Resevered TAMILNADU NURSING TEAM 
 - Use public domain or permitted documents only
 - Educational purposes only
